@@ -1,0 +1,38 @@
+{
+    "name": "Background",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#4a1898",
+        "#5319ae",
+        "#5710c7",
+        "#6e2bca",
+        "#067d1e",
+        "#d277f8",
+        "#fedd92",
+        "#a0a0ab",
+        "#282968",
+        "#dce0db"
+    ]
+}
